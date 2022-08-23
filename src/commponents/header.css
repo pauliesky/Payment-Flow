@@ -1,0 +1,22 @@
+.header-container {
+  display: flex;
+  gap: 10rem;
+  padding-bottom: 4rem;
+}
+
+h1 {
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  color: darkslateblue;
+}
+.header-container_PersonalInfo {
+  color: rgb(255, 106, 7);
+  /* height: 25px;
+  width: 80px; */
+}
+.tag {
+  background-color: rgb(255, 68, 0);
+  height: 5px;
+  margin-top: 10px;
+  border-radius: 30%;
+}

@@ -1,0 +1,15 @@
+.sp-input-bar {
+  display: flex;
+  gap: 10px;
+}
+
+.sp-input-bar_CD {
+  width: 50%;
+}
+.sp-input-bar_CD input {
+  width: 90%;
+}
+
+.sp-input-bar h4 {
+  padding-bottom: 0.75rem;
+}

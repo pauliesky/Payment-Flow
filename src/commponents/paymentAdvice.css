@@ -1,0 +1,42 @@
+.payment-container {
+  height: 20rem;
+  background-color: white;
+  border: 1px solid whitesmoke;
+  border-radius: 0.8rem;
+  box-shadow: 1px 1px 1px whitesmoke;
+}
+
+.PC1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px 0 50px;
+  background-color: rgba(44, 80, 196, 0.813);
+  color: white;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.PC2 {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 50px 0 50px;
+}
+.PC3 {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px 30px 50px;
+}
+.PC4 {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 25px 0 25px;
+  border: 1px solid whitesmoke;
+  border-radius: 5px;
+  margin: 0 25px 0 25px;
+}
+.PC5 {
+  padding-bottom: 20px;
+  margin: 0 15px 0 15px;
+}
+.box {
+  height: 3rem;
+  padding: 10px;
+}

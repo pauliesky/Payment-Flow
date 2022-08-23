@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+.form-container {
+  height: 60rem;
+  /* background-color: rgb(255, 216, 144); */
+  width: 50rem;
+  margin: auto;
+}

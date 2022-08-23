@@ -1,0 +1,18 @@
+.sp-input-bar {
+  display: flex;
+}
+
+.sp-input-bar_LG {
+  width: 80%;
+}
+.sp-input-bar_LG input {
+  width: 90%;
+}
+
+.sp-input-bar h4 {
+  padding-bottom: 0.75rem;
+}
+select {
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+}
